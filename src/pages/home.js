@@ -16,7 +16,7 @@ const Home = () =>{
             <Avatar image={Logo}/>
         </div>
             <StyledTitle size={50} >
-                Welcome To STK
+                Welcome To STK Gr
             </StyledTitle>
             <ButtonGroup>
                 <StyledButton to="/login">Login</StyledButton>
